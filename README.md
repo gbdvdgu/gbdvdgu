@@ -4,7 +4,7 @@
 🎯 I’m a proud member of the Cyberonites club at GLA University, where I’ve contributed to two major events, including a national one  
 💼 Looking to collaborate on CTFs, pentesting, and cybersecurity projects  
 📫 How to reach me: Instagram:harsh_jadoun409
-⚡ Fun fact: I love breaking into systems, legally of course 😉  
+⚡ Fun fact: The world is not troubled by challenges but by fools.
 
 <!---
 gbdvdgu/gbdvdgu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

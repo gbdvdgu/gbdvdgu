@@ -1,5 +1,5 @@
 -👋 Hi, I’m Harsh Pratap Singh (@gbdvdgu)  
-👀 I’m passionate about hacking, with experience solving over 13 CTFs and earning multiple certifications  
+👀 I’m passionate about hacking, with experience solving CTFs and earning multiple certifications  
 🌱 I’m currently diving into the basics of reverse engineering  
 🎯 I’m a proud member of the Cyberonites club at GLA University, where I’ve contributed to two major events, including a national one  
 💼 Looking to collaborate on CTFs, pentesting, and cybersecurity projects  
